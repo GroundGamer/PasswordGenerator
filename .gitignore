@@ -110,8 +110,6 @@ ENV/
 env.bak/
 venv.bak/
 
-dist/password.txt
-
 # Spyder project settings
 .spyderproject
 .spyproject
